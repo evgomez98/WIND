@@ -2,7 +2,7 @@
 # Learn more at https://jupyterbook.org/customize/config.html
 
 title: Modelos de Serie de Timepo para Pronóstico de la Velocidad del Viento 
-author: The Jupyter Book Community
+author: Elianna Gomez F
 logo: logo.png
 
 # Force re-execution of notebooks on each build.
